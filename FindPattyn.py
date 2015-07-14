@@ -1,4 +1,4 @@
-__author__ = 'achmat'
+#find files in os 
 
 import os
 import sys
